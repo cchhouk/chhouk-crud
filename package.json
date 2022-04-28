@@ -1,0 +1,27 @@
+{
+  "name": "chhouk-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchhouk/chhouk-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchhouk/chhouk-crud/issues"
+  },
+  "homepage": "https://github.com/cchhouk/chhouk-crud#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3"
+  }
+}
